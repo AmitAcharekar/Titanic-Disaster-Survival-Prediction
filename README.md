@@ -16,9 +16,13 @@ Categorical Encoding: I converted categorical features like 'Sex'  into numerica
 
 ## Files Included
 train.csv: The training dataset used to train the model.
+
 test.csv: The test dataset used to make predictions for submission.
+
 submission.csv: The CSV file containing the predictions for the test dataset.
+
 Titanic_prediction.ipynb: Jupyter Notebook containing the code, data preprocessing, model building, and evaluation.
+
 README.md: This README file provides an overview of the project.
 
 ## Results
