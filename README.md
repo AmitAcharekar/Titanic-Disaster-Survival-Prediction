@@ -14,7 +14,7 @@ Missing Data: I handled missing data by imputing missing values in features like
 
 Categorical Encoding: I converted categorical features like 'Sex'  into numerical values.
 
-##Files Included
+## Files Included
 train.csv: The training dataset used to train the model.
 test.csv: The test dataset used to make predictions for submission.
 submission.csv: The CSV file containing the predictions for the test dataset.
